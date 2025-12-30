@@ -111,4 +111,3 @@ Eslam Alsaeed
 Feel free to fork, contribute, or open issues.
 
 Happy detecting! 🧑
-```
