@@ -23,10 +23,7 @@ face-detection-opencv-streamlit/
 ├── app.py                        # Main Streamlit application
 ├── requirements.txt              # Python dependencies (uses opencv-python-headless)
 ├── colab_notebook.ipynb          # Full Google Colab development & testing notebook
-├── model/                        # Auto-created folder for downloaded model files
-├── screenshots/                  # Demo images (recommended)
-├── .streamlit/config.toml        # Optional: Streamlit configuration for headless mode
-├── packages.txt                  # Optional: System packages for Streamlit Cloud
+├── Demo/                         # Demo video
 ├── README.md                     # Project documentation
 └── LICENSE                       # MIT License
 ```
@@ -73,7 +70,8 @@ The model (~10.7 MB) will be downloaded automatically on first run.
 ## 📓 Google Colab Notebook
 
 Full development and experimentation notebook:  
-[**colab_notebook.ipynb**](HexSoftware_Face_Detection.ipynb)
+[**colab_notebook.ipynb**](HexSoftware_Face_Detection.ipynb) :
+https://colab.research.google.com/drive/1KJRkD_gs1LFmLL4XmhkXFExfVNR46Z8L?usp=drive_link
 
 Includes:
 - Model loading and validation
