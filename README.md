@@ -6,11 +6,6 @@ It utilizes OpenCV's pre-trained Deep Learning model (ResNet-10 SSD) to accurate
 
 **Live Demo:**  https://ezbewt64biwjtn6u2ykj63.streamlit.app/
 
-**This is my second project in the AI Track at HexSoftware.**
-
-![App Preview](screenshots/app_preview.png)  
-*(Add your own screenshots: app interface, image detection, video processing)*
-
 ## 🚀 Features
 
 - Fast and accurate face detection using OpenCV's pre-trained DNN module
